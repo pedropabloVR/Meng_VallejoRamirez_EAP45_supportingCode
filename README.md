@@ -6,7 +6,7 @@
 
  * Matlab code used to perform the nearest-neighbour analysis on the fixed HeLa and HAP1-EAP45KO cells
 
- * Matlab code used to analyse the single particle tracking data output by TrackMate (Tinevez et al. 2017)
+ * Matlab code used to analyse the single particle tracking data
 
  * R code used to generate the the plots in Fig. 3, 4, 5, S1, S2, and S4 of the preprint.
     * Fig. 3,4,S2: hiv-escrtII_colocalisation.R
