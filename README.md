@@ -13,3 +13,5 @@ ___
     * hiv-escrtII_colocalisation.R   --> Fig. 3, 4, S2
     * hiv-escrtII_SubstrateControl.R --> Fig. S1
     * hiv-escrtII_tracking.R         --> Fig. 5, S4
+
+ * [Data to reproduce figures](/data) used by the scripts to generate the figures in the manuscript. 
