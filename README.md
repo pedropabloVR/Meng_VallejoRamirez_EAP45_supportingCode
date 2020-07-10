@@ -1,6 +1,7 @@
 # Meng & Vallejo Ramirez et al. (2020) Supporting Code
 
- Supporting code for the preprint Meng & Vallejo Ramirez et al. 2020 "Distinct domain requirements for EAP45 in HIV budding, late endosomal recruitment, and cytokinesis".
+ Supporting code for the preprint Meng & Vallejo Ramirez et al. 2020 ["Distinct domain requirements for EAP45 in HIV budding, late endosomal recruitment, and cytokinesis"](https://doi.org/10.1101/2020.05.23.112607).
+
 ___
 
  ### This repository includes:
